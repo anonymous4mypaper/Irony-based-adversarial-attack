@@ -1,0 +1,14 @@
+ngram.json
+simplifyweibo_4_moods.csv
+tencent-ailab-embedding-zh-d100-v0.2.0-s.txt
+collocations.json
+visual_atk/vce.normalized
+visual_atk/simsun.ttf
+util/chinese_rbt6_L-6_H-768_A-12/
+util/ltp_data_v3.4.0/
+model/Amazon/
+model/Meituan/
+output/
+corpus/Amazon/
+corpus/Meituan/
+.idea/
