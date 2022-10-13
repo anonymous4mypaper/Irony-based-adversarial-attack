@@ -1,6 +1,4 @@
-# Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
-
-Code and data of the paper "IAE: Irony-based Adversarial Examples for Sentiment Analysis Systems".
+# Code and data of the paper "IAE: Irony-based Adversarial Examples for Sentiment Analysis Systems".
 
 ## Requirements
 
